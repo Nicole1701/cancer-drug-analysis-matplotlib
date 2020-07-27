@@ -9,27 +9,27 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 1. Comparing all 9 drug treatments as well as a placebo, the long-term survival rate was the highest in those treated with Capomulin and Ramicane Out of 250 possible time points for each of these drugs, Capomulin recorded 230 by the end of the study, closely followed by Ramicane with 228.
 
 
-![Mouse Survival Rate Across Treatments](Images/Time_Periods.png)
+![Mouse Survival Rate Across Treatments](images/Time_Periods.png)
 
 
 2. In order to account for any possible variation in the data based on gender, an almost identical number of male and female mice were included.
 
-![Gender of Mice](Images/Gender.png)
+![Gender of Mice](images/Gender.png)
 
 
 3. Looking at the final tumor weight of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin, both Capomulin and Ramican had similar ending average tumor weights by volume and outperformed Infubinol and Ceftamin in comparison. Infubinol was the only treatment to have an outlier. 
 
-![Tumor Weight](Images/Tumor_Weight.png)
+![Tumor Weight](images/Tumor_Weight.png)
 
 
 4. Looking specifically at one mouse in the Capomulin study, the average tumor size reduced consistenly over time from a high of 45 at the start of the study, to a low of 23.34 at the end of the study.
 
-![Tumor Size of Mouse s185](Images/Tumor_Size.png)
+![Tumor Size of Mouse s185](images/Tumor_Size.png)
 
 
 5. There is a strong correlation between the average tumor volume and mouse weight. This means that mouse weight should be taken into consideration when determining the efficacy of the drug.
 
-![Mouse Weight vs Tumor Volume](Images/Tumor_Scatter.png)
+![Mouse Weight vs Tumor Volume](images/Tumor_Scatter.png)
 
 
 **Conclusion**
